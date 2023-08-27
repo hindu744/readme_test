@@ -12,14 +12,14 @@ Utilizing modern technologies, the ANGANWADI Android App is specifically designe
 
 ## ScreenShots 🫣
 
-<div align="right" width="100%">
+<div>
   <img align="right" src="https://github.com/tomer00/Anganwadi-Helper/assets/68748487/2ce483b2-506b-4628-8a4d-c4ae5f2182d1" alt="search"/>
 
   - Efficiently scanned Aadhar car using computer vision to input data quickly.
 </div>
 
 ---
-<div align="right" width="100%">
+<div>
   <img align="right" src="https://github.com/tomer00/Anganwadi-Helper/assets/68748487/baedd65d-a743-421d-865e-a4b9a9b905a9" alt="addMother"/>
 
   - Powerful searching mechanism to find the required data.
@@ -27,8 +27,23 @@ Utilizing modern technologies, the ANGANWADI Android App is specifically designe
 
 ---
 
+<div>
+  <img align="right" src="https://github.com/tomer00/Anganwadi-Helper/assets/68748487/4ec9ee40-9220-40ab-8217-121389fc8059" alt="fillData"/>
+</div>
 
-<img height=200px/>
+---
+---
+---
+---
+---
+
+---
+---
+---
+---
+---
+
+<img height=250px/>
 
 ## Features 📱
 
