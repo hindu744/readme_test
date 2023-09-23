@@ -1,13 +1,14 @@
 # Task Tick - Your Ultimate To-Do List App
 
-<div align="center" width = 50%>
+<div align="center">
   <img src="https://github.com/hindu744/readme_test/assets/112962567/58be85f0-ae65-4d66-b37d-c86d9b4d0534"/>
 </div>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?&logo=android&logoColor=white&style=for-the-badge)
 [![License Badge](https://img.shields.io/badge/license-Apache%202.0-blue?style=for-the-badge)](https://github.com/tomer00/Anganwadi-Helper/blob/master/LICENSE)
-![Api Level](https://img.shields.io/badge/Min%20API%20Level-29-important?style=for-the-badge)
+![Api Level](https://img.shields.io/badge/Min%20API%20Level-26-important?style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&logo=kotlin&logoColor=white&style=for-the-badge)
+![Android](https://img.shields.io/badge/MVVM-3DDC84?&style=for-the-badge)
 
 Task Tick is a powerful and intuitive to-do list app designed to help you manage your tasks, stay organized, and boost your productivity. With Task Tick, you can easily create, manage, and track your tasks with a sleek and user-friendly interface.
 
@@ -27,6 +28,8 @@ Task Tick is a powerful and intuitive to-do list app designed to help you manage
 - **Dark Mode**: Enjoy Task Tick in low-light environments with our sleek dark mode.
 
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
