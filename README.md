@@ -16,7 +16,7 @@ Task Tick is a powerful and intuitive to-do list app designed to help you manage
   <img align="right" src="https://github.com/hindu744/readme_test/assets/112962567/45790531-1232-4d4a-9880-c2ec3825dc04" alt="search"/>
 </div>
 
-## Features
+## Features 📱
 
 
 - **Task Management**: Create, edit, and delete tasks effortlessly. Organize your tasks into lists or categories for better clarity.
@@ -49,13 +49,20 @@ To get started with Quotly:
 
 3. Build and run the app on an Android emulator or physical device.
 
-## Usage
+## Usage 📱
 
 1. Create a new task by clicking the "+" button.
 2. Set the task name, due date, and priority.
 3. Add subtasks and notes if needed.
 4. Save the task, and it will appear in your task list.
 5. Mark tasks as completed when you've finished them.
+
+## Technologies Used 💻
+
+- Android SDK
+- Room Database
+- MVVM (Modal-View-ViewMoal)
+- Intuitive UI/UX
 
 ## Contribution 👋
 
