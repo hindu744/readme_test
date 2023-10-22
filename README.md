@@ -21,10 +21,10 @@ XeCrypt is a versatile Java Swing application that empowers you to encrypt and d
 ---
 
 ## ScreenShots 🫣
+
 <div>
-  
   <img align="right" height="240" src="https://github.com/tomer00/XeCrypt/assets/68748487/1a919d0f-c405-4651-bd96-7be305f79dd2" alt="LockView"/>
-  <img align="right" width="20px" height="240px" src="https://github.com/hindu744/readme_test/assets/112962567/a8ffee98-73bf-49d9-90bb-6c16f420ce20"/>
+  <img align="right" width="16px" height="240px" src="https://github.com/hindu744/readme_test/assets/112962567/a8ffee98-73bf-49d9-90bb-6c16f420ce20"/>
 
 - To enhance security, you can access the Quick View feature by entering a PIN.
 - Drop any type of file in the designated area, and it will be automatically encrypted and sorted into the appropriate folder based on its file type.
